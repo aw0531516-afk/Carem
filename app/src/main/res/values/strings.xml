@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarromPilot</string>
+    <string name="accessibility_service_description">CarromPilot Gesture Controller performs automated taps, slider positioning, and striker pull-and-release drags on your Carrom game board.</string>
+    <string name="accessibility_service_label">CarromPilot Touch Automation</string>
+    <string name="notification_channel_name">CarromPilot Live Automation</string>
+    <string name="notification_channel_desc">Keeps live screen reading and floating control HUD active during gameplay</string>
+</resources>

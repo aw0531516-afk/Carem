@@ -1,0 +1,6 @@
+{
+  "name": "CarromPilot",
+  "description": "Automated Carrom vision reader, board calibrator, gesture controller, and self-improving shot training studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
